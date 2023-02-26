@@ -1,6 +1,18 @@
 
 # SecureNetGuard README.md
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Name Meaning](#name-meaning)
+- [Goals](#goals)
+- [Roadmap](#roadmap)
+- [Features](#features)
+- [Unique Points](#unique-points)
+- [Requirements](#requirements)
+- [License](#license)
+- [Copyright](#copyright)
+- [Table of Contents](#table-of-contents)
+
 ## Introduction
 SecureNetGuard is a Python-based tool designed to detect and stop malicious packets of data on a network. It utilizes feature engineering, statistical analysis, and various types of classifiers to identify malicious traffic. This project was created as a prototype for corporations and individuals who want to contribute to the cybersecurity world.
 
@@ -49,16 +61,4 @@ SecureNetGuard is a prototype and will likely need to be updated to run on the r
 The license used is an MIT license, and the username for the Git repo is 'CY83R-3X71NC710N'.
 
 ## Copyright
-© CY83R-3X71NC710N 2023
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Name Meaning](#name-meaning)
-- [Goals](#goals)
-- [Roadmap](#roadmap)
-- [Features](#features)
-- [Unique Points](#unique-points)
-- [Requirements](#requirements)
-- [License](#license)
-- [Copyright](#copyright)
-- [Table of Contents](#table-of-contents)
+Â© CY83R-3X71NC710N 2023
